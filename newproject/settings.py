@@ -25,7 +25,7 @@ SECRET_KEY = '3+mxa=c91@0!nwp#5^z06t^1t-mj67$@91-cfuh56pm89cyrlh'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['myawesomeapp1369.azurewebsites.net',]
+ALLOWED_HOSTS = ['myawesomeapp1369.azurewebsites.net']
 
 
 # Application definition
